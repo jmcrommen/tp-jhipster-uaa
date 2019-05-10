@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "fr.chocolateroad.uaa",
+      "nativeLanguage": "fr"
+    },
+    "jhipsterVersion": "6.0.0",
+    "applicationType": "uaa",
+    "baseName": "uaa",
+    "packageName": "fr.chocolateroad.uaa",
+    "packageFolder": "fr/chocolateroad/uaa",
+    "serverPort": "9999",
+    "authenticationType": "uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "OGY0NjdjMTY2YWEyY2NlNTMwNWRhMDQwY2Q2Njc5MWMwZDllOWYzMzMwYTk1NmUxYTIzYWU2ODY3ZGY1YTQ3NmI1ZGE5NzNhMmNiMWIzOTg1ZTMyM2I1MWQ0ZGY4ZDZkYmVlZTVhODIwMTk4Zjc2ZGIxM2NmNWIzZTM1MGRmNDI=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "fr",
+    "languages": [
+      "fr",
+      "en"
+    ],
+    "skipClient": true
+  }
+}
